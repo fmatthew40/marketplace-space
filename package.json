@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/fmatthew40/marketplace-space/issues"
   },
-  "homepage": "https://github.com/fmatthew40/marketplace-space#readme"
+  "homepage": "https://github.com/fmatthew40/marketplace-space#readme",
+  "dependencies": {
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.14.1"
+  }
 }
