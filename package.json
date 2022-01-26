@@ -1,0 +1,20 @@
+{
+  "name": "marketplace-space",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmatthew40/marketplace-space.git"
+  },
+  "author": "Matthew Foster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmatthew40/marketplace-space/issues"
+  },
+  "homepage": "https://github.com/fmatthew40/marketplace-space#readme"
+}
