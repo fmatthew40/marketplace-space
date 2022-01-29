@@ -15,10 +15,14 @@
  ## Demonstration
  Please visit the following links to view the demonstration for the application. There are two parts.  
  https://youtu.be/3r0Moy8ks7A
+ https://youtu.be/zyJRjAr0hzQ
  
 
  ## Description    FIXXXXXXX
- To start, I installed mysql2, dotenv, express, and sequelize.  
+ To start, I installed mysql2, dotenv, express, and sequelize. 
+
+ I updated my JSON file to run the command "npm run seed". I updated my models so each one had a foreign key and certain attributes.  I then updated the server file so it would run sequelize.  In addition, I added associations to the models so there would be relationships between the models.  Next, I added delete, put, get, and post routes for the "Tag" model, the "Product" model, and the "Category" model.  
+ 
 
  ## Installation 
  1. Run "npm i dotenv express mysql2 sequelize" in the terminal.
